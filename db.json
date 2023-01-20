@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "name": "exercicios_os",
+      "budget": "12000",
+      "category": {
+        "id": "2",
+        "name": "Marketing"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "ADENICE G MOTA",
+      "budget": "10000",
+      "category": {
+        "id": "4",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Marketing"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Desenvolvimento"
+    }
+  ]
+}

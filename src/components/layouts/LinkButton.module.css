@@ -1,0 +1,12 @@
+.btn{
+    background-color: #222;
+    color: #ffbb33;
+    border-radius: 30px;
+    padding: 1em;
+    text-decoration: none;
+    transition: .4s;
+}
+
+.btn:hover{
+    background-color: #5c5b5b;
+}

@@ -1,0 +1,25 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #222;
+    color: #FFF;
+    padding: 2em;
+}
+
+.list{
+    list-style: none;
+    display: flex;
+    font-size: 1.5em;
+}
+
+.list li{
+    margin-right: 1.3em;
+}
+
+.list li:hover{
+    color: #ffbb33;
+}
+
+.list svg:hover{
+    cursor: pointer;
+}
